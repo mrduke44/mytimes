@@ -120,5 +120,20 @@ nav span{
   margin-top:16px;
 }
 
+.news-bites h3 {
+  font-size: 16px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.news-bites .bite {
+  background-color: WhiteSmoke;
+  font-family: Verdana;
+  font-size: 12px;
+  color: DimGray;
+  display:block;
+  border-bottom: 1px solid black;
+  padding: 11px 20px;
+}
 
 /* Footer styles */
